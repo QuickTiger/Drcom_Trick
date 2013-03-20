@@ -9,4 +9,5 @@ while True:
     for line in s:
         print(line)
 
-    
+cx.close()
+
