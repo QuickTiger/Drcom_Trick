@@ -2,4 +2,4 @@
     It can also check the account and log their money left in the account.
     And then a website based on nginx+lua using a pretty new method to protect the security of the information will be established to provide the Accounts and passwords to people.(Actually the Account will not provide to others without the permission of its owner).
 
-    The origin Data will not provided in this program.If you want some testing data contact to color4gae@gmail.com
+    The origin Data will not provided in this program.If you want some testing data contact to alan@alanzh.me
